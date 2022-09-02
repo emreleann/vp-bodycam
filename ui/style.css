@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
+
+.container {
+    font-family: 'Share Tech Mono', monospace;
+  display: block;
+  position: absolute;
+  padding: 5px;
+  right: 10px;
+
+}
+#barIcon{
+  width: 7px;
+  height: 7px;
+  float: left;
+  padding: 0;
+  margin: 3px;
+  color: #fff;
+  font-size: 10px;
+}
+#main {
+  text-transform: uppercase;
+  width: 300px;
+  height: 5px;
+  text-shadow: 2px 2px 2px #00000094;
+  color: rgb(255, 255, 255);
+  padding: 0;
+  float:right;
+  padding:2px;
+  margin: 3px;
+}
+#obrazek {
+  width: 5px;
+
+
+  margin-left: 50px;
+}
+#armor {
+  width: 130px;
+  height: 5px;
+  padding: 0;
+  float:right;
+  padding:2px;
+  margin: 3px;
+}
+
+#mainBox {
+ 
+
+}
+#boxArmor {
+  background: var(--color);
+}
+body {
+  color: #fff;
+  overflow: hidden;
+  height:100%;
+  width:100%;
+  font-family: 'Oswald', sans-serif;
+}
